@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe src='https://gfycat.com/ifr/EcstaticDefenselessArkshell' frameborder='0' scrolling='no' allowfullscreen width='640' height='405'></iframe>
+    <img src='https://gfycat.com/ifr/EcstaticDefenselessArkshell' </img>
 </div>
 
 ### Hi there 👋
