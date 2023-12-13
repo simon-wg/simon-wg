@@ -18,7 +18,7 @@
     <img src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="Gif" />
 </div>
 
-### :man_technologist: About me :
+### 👨‍💻 About me :
 
 I am a first year Software Engineering student at Chalmers University of Technology in Gothenburg, Sweden.
 
@@ -28,7 +28,7 @@ I am a first year Software Engineering student at Chalmers University of Technol
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
