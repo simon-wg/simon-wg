@@ -22,9 +22,9 @@
 
 I am a first year Software Engineering student at Chalmers University of Technology in Gothenburg, Sweden.
 
-- :telescope: I am currently studying Software engineering while working part time.
-- :seedling: Learning WebDev and Go.
-- :mailbox: How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:simon.green@live.se)
+- 🔭 I am currently studying Software engineering while working part time.
+- 🌱 Learning WebDev and Go.
+- 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:simon.green@live.se)
 
 ---
 
