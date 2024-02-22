@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/simon-westlin-green-8a6020187/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCbX6oO84GD7mSkKl9nqzwdg/">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
     <a href="mailto:simon.green@live.se">
         <img src="https://img.shields.io/badge/Email-F2EECB?style=for-the-badge&logo=Minutemailer&logoColor=black" alt="Mail Badge"/>
     </a>
@@ -24,7 +21,7 @@ I am a first year Software Engineering student at Chalmers University of Technol
 
 - 🔭 I am currently studying Software engineering while working part time.
 - 🌱 Learning WebDev and Go.
-- 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:simon.green@live.se)
+- 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:simon.green@live.se) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-westlin-green-8a6020187/)
 
 ---
 
