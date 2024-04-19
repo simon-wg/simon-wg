@@ -20,7 +20,7 @@
 I am a first year Software Engineering student at Chalmers University of Technology in Gothenburg, Sweden.
 
 - 🔭 I am currently studying Software engineering while working part time.
-- 🌱 Learning WebDev and Go.
+- 🌱 Learning Rust and improving my web development skills.
 - 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:simon.green@live.se) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-westlin-green-8a6020187/)
 
 ---
