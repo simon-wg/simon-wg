@@ -11,10 +11,6 @@
 
 <h1> Hi there 👋 </h1>
 
-<div align="center"></div>
-    <img src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="Gif" />
-</div>
-
 ### 👨‍💻 About me :
 
 I am a third year Software Engineering student at Chalmers University of Technology in Gothenburg, Sweden.
