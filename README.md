@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/simon-westlin-green-8a6020187/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:simon.green@live.se">
+    <a href="mailto:me@simonwg.com">
         <img src="https://img.shields.io/badge/Email-F2EECB?style=for-the-badge&logo=Minutemailer&logoColor=black" alt="Mail Badge"/>
     </a>
 </div>
@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About me :
 
-I am a third year Software Engineering student at Chalmers University of Technology in Gothenburg, Sweden.
+I am a fourth year Software Engineering student at Chalmers University of Technology in Gothenburg, Sweden.
 
-- 🔭 I am currently studying Software engineering while working part time.
-- 🌱 Improving my web development skills and get better at CI/CD.
-- 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:simon.green@live.se) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-westlin-green-8a6020187/)
+- 🔭 I am currently studying Computer systems and Cybersecurity full-time while working part time.
+- 🌱 Currently learning distributed systems and cryptography.
+- 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:me@simonwg.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-westlin-green-8a6020187/)
 
 ---
 
@@ -35,15 +35,6 @@ I am a third year Software Engineering student at Chalmers University of Technol
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>    
 </div>
 ...and more
-
-<!--
-**Its-Casino/Its-Casino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
