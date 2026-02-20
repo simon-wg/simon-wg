@@ -15,10 +15,6 @@
 
 I am a fourth year Software Engineering student at Chalmers University of Technology in Gothenburg, Sweden.
 
-- 🔭 I am currently studying Computer systems and Cybersecurity full-time while working part time.
-- 🌱 Currently learning distributed systems and cryptography.
-- 📬 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-F2EECB?&style=flat&logo=Minutemailer&logoColor=black)](mailto:me@simonwg.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-westlin-green-8a6020187/)
-
 ---
 
 ### 🛠️ Languages and Tools :
