@@ -1,10 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width=200 </img>
     <div id="badges">
-    <a href="https://www.linkedin.com/in/simon-westlin-green-8a6020187/">
+    <a href="https://www.linkedin.com/in/simon-wg/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:me@simonwg.com">
+    <a href="mailto:simon@simonwg.com">
         <img src="https://img.shields.io/badge/Email-F2EECB?style=for-the-badge&logo=Minutemailer&logoColor=black" alt="Mail Badge"/>
     </a>
 </div>
