@@ -23,9 +23,11 @@ Currently looking for internship/thesis opportunities. Open to interesting probl
 
 ### Experience
 
-**Volvo Car AB** · Gothenburg, Sweden
-- Junior Software Engineer _(current)_
-- Software Engineering Intern _(summer 2025)_
+**Ericsson** · Gothenburg, Sweden
+- Software Engineer Student Worker _(June 2026 -)_
+
+**Volvo Cars** · Gothenburg, Sweden
+- Software Engineer Student Worker _(November 2024 - June 2026)_
 
 ---
 
